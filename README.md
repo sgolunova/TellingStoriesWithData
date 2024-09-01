@@ -15,10 +15,10 @@ Hello! My name is Sophie Golunova and I am a Master's Candidate at Carnegie Mell
 
 # What I hope to Learn
 
-How to use color more effectivley
-What a good chart looks like
-How to effectively present information
-How to make my graphs look more aesthetically appealing
+1. How to use color more effectivley
+2. What a good chart looks like
+3. How to effectively present information
+4. How to make my graphs look more aesthetically appealing
 
 # Portfolio
 
