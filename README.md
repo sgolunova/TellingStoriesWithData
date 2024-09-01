@@ -11,7 +11,14 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Sophie Golunova and I am a Master's Candidate at Carnegie Mellon University studying Information Security Policy and Management. I've always been passionate about data and data-driven decision-making. I'm interested in exploring how we can present data and statistics more effectively in cybersecurity to raise awareness both among individuals and within organizations. 
+
+# What I hope to Learn
+
+How to use color more effectivley
+What a good chart looks like
+How to effectively present information
+How to make my graphs look more aesthetically appealing
 
 # Portfolio
 
