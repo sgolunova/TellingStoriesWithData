@@ -6,8 +6,7 @@ Text here!
 _As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
 
 ## Part one: Working with web-based visualization tools and data
-
-_Include your visualization, and introduce us to what you did._
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/sgolunov-93ce664886/views/DataViz1_17255819596310/Debt-to-GDPratiosbycountry' width='1280' height='625' hide-tabs toolbar='bottom' ></tableau-viz>
 
 ## Working with Tableau
 
