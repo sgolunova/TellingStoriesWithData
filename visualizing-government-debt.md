@@ -1,15 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
-
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
+# Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
-<iframe src="https://data-viewer.oecd.org?chartId=61c3f620-1891-47a7-8818-2a1645713a73" style="border: none"; 
-  allowfullscreen="true">;
-  <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=61c3f620-1891-47a7-8818-2a1645713a73" target="_blank">Dataflow</a> 
-</iframe>
+
+<img width="817" alt="Screen Shot 2024-09-09 at 12 18 49" src="https://github.com/user-attachments/assets/d8590c32-31c9-4072-afd1-6232279b08f2">
 
 
 
