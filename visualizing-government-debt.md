@@ -16,7 +16,18 @@ _As before, this template provides some of the structure you should have for you
 ## Working with Tableau
 
 
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/sgolunov-93ce664886/views/DataViz1_17255819596310/Debt-to-GDPratiosbycountry' width='1280' height='625' hide-tabs toolbar='bottom' ></tableau-viz>
+<script type='module'src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'>
+</script>
+<tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/sgolunov-93ce664886/views/DataViz1_17255819596310/Debt-to-GDPratiosbycountry' width='1280' height='625' hide-tabs toolbar='bottom' >
+</tableau-viz>
+
+<iframe 
+    src="https://us-east-1.online.tableau.com/t/sgolunov-93ce664886/views/DataViz1_17255819596310/Debt-to-GDPratiosbycountry"
+    width="100%" 
+    height="600" 
+    frameborder="0" 
+    allowfullscreen="true">
+</iframe>
 
 ## Part three: create your own visualization
 
