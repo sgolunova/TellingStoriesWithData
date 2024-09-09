@@ -28,10 +28,6 @@ You can keep this section for stuff from in-class demos or your other work, or r
 ## Assignment 1 [Critique #1: FITARA and Paid Vacation Days](Critique-#1)
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-    <iframe src="https://data-viewer.oecd.org?chartId=61c3f620-1891-47a7-8818-2a1645713a73" style="border: none"; allowfullscreen="true">;<a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=61c3f620-1891-47a7-8818-2a1645713a73" target="_blank">Dataflow</a> </iframe>
-    
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
