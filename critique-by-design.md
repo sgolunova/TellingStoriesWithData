@@ -61,6 +61,8 @@ From the feedback that I got, I learned that this representation of the data is 
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+For my final redesign data visualization I included a boxplot which references the original data. I thought side-by-side boxplot would be a great way to represent the data and how the median age of marriage has changed within regions over time. A boxplot also shows outliers which might I thought would be cool to represent. The line in the middle shows the average age between 2006-2019 of average age of first marriage and I thought it would be a great reference point to add to see which regions are above/below average for comparison. 
+
 <div class='tableauPlaceholder' id='viz1726677718669' style='position: relative'>
   <noscript>
     <a href='#'>
