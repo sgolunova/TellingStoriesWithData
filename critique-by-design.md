@@ -61,7 +61,9 @@ From the feedback that I got, I learned that this representation of the data is 
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
-<div class='tableauPlaceholder' id='viz1726677718669' style='position: relative'><noscript><a href='#'>
+<div class='tableauPlaceholder' id='viz1726677718669' style='position: relative'>
+  <noscript>
+    <a href='#'>
   <img alt='Sheet 8 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiqueByDesign&#47;Sheet8&#47;1_rss.png' style='border: none' />
 </a>
 </noscript>
