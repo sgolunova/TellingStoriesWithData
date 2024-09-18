@@ -46,9 +46,6 @@ Questions to ask:
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question                                            | 26M Student                                         | 23F Student |
 |-----------------------------------------------------|-----------------------------------------------------|-------------|
 |Can you tell me what you think this is?              |showing me the trend of age for first time marriage.|I think this is a graph of the median first marriage age in the us over time|
@@ -58,10 +55,36 @@ _Don't identify or share personally identifiable information (PII) about the peo
 |Is there anything you would change or do differently?|would like to see it starting from 1920 and on the x axis, add a vertical line to break it down per generation| I would change the title of the graph to say median age of first marriage trend over time by geographical area of us or something like that
 
 Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From the feedback that I got, I learned that this representation of the data is a little confusing. I could change the title and potentially identify the United States in a more neutral color so it is not confused with the others. Based on this feedback, I gather that a line chart isn't the best way to visualize this data and I might be more inclined to make something like a boxplot isntead of instance. 
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+<div class='tableauPlaceholder' id='viz1726677718669' style='position: relative'><noscript><a href='#'>
+  <img alt='Sheet 8 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiqueByDesign&#47;Sheet8&#47;1_rss.png' style='border: none' />
+</a>
+</noscript>
+  <object class='tableauViz'  style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='CritiqueByDesign&#47;Sheet8' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiqueByDesign&#47;Sheet8&#47;1.png' /> 
+    <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+  </object></div>
+  <script type='text/javascript'>
+    var divElement = document.getElementById('viz1726677718669');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  </script>
 
