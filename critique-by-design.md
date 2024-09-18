@@ -11,8 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-<iframe 
-  src="https://datacenterstage.prb.org/embed/usdata/indicator/marriage-age-women/map/state/2015" style="height:100vh;width:100%">
+<iframe src="https://datacenterstage.prb.org/embed/usdata/indicator/marriage-age-women/map/state/2015" style="height:100vh;width:100%"> 
 </iframe>
 
 
