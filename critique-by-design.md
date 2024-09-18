@@ -13,8 +13,9 @@ _Include link to the original data visualization (or screenshot - make sure to c
 
 <iframe 
   src="https://datacenterstage.prb.org/embed/usdata/indicator/marriage-age-women/map/state/2015" style="height:100vh;width:100%">
-  
 </iframe>
+
+
 [Source: https://www.prb.org/usdata/indicator/marriage-age-women/map/state/2015]
 
 I chose this specific visualization because I thought the data was very interesting. I am currently 22 years old and a lot of my peers post-graduation are starting to settle down and get married. I on the other hand, am foucsing on furthering my education. This specific data set and graphic was very appealing to me because it shows the differences in median age of first marriage in the United States and which is condusive to an interesting comparison between different states. I also thought that the graphic was well created and thought out so it would be a challenging redesign exercise. Although the data almost made for a map, I wanted to see if I could do something else with it. 
