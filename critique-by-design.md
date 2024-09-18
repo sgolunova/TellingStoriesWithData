@@ -49,13 +49,13 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question                                            | 26M Student           | 23F Student |
-|-----------------------------------------------------|-------------|-------------|
-|Can you tell me what you think this is?              |showing me the trend of age for first time marriage. And you are breaking it down by the 4 regions in the US while also giving the overall average             |
-|Can you describe to me what this is telling you?     |             |             |
-|Is there anything you find surprsing or confusing?   |
-|Who do you think is the intended audience for this?  |
-|Is there anything you would change or do differently?|             |
+| Question                                            | 26M Student                                         | 23F Student |
+|-----------------------------------------------------|-----------------------------------------------------|-------------|
+|Can you tell me what you think this is?              |showing me the trend of age for first time marriage.|I think this is a graph of the median first marriage age in the us over time|
+|Can you describe to me what this is telling you?     |And you are breaking it down by the 4 regions in the US while also giving the overall average  |  this is telling me how the first marriage age has changed over time          |  
+|Is there anything you find surprsing or confusing?   |the south stayed relatively the same from 2006 to 2019.|i think it was a little confusing that there were so many lines because at first I thought the lines were for different countries|
+|Who do you think is the intended audience for this?  |financial institutions| I think the intended audience is people who are curious about marriage ages
+|Is there anything you would change or do differently?|would like to see it starting from 1920 and on the x axis, add a vertical line to break it down per generation| I would change the title of the graph to say median age of first marriage trend over time by geographical area of us or something like that
 
 Synthesis: 
 
