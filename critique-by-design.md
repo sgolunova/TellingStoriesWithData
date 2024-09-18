@@ -11,10 +11,9 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-<iframe src="https://datacenterstage.prb.org/embed/usdata/indicator/marriage-age-women/map/state/2015" style="height:100vh;width:100%"> 
-</iframe>
+[Orignal Image][prb-image-export](https://github.com/user-attachments/assets/3e17b130-98c6-453c-8316-ad581f0b13d8)
 
-
+Click on the Link for an interactive version.
 [Source: https://www.prb.org/usdata/indicator/marriage-age-women/map/state/2015]
 
 I chose this specific visualization because I thought the data was very interesting. I am currently 22 years old and a lot of my peers post-graduation are starting to settle down and get married. I on the other hand, am foucsing on furthering my education. This specific data set and graphic was very appealing to me because it shows the differences in median age of first marriage in the United States and which is condusive to an interesting comparison between different states. I also thought that the graphic was well created and thought out so it would be a challenging redesign exercise. Although the data almost made for a map, I wanted to see if I could do something else with it. 
@@ -26,6 +25,8 @@ The visualization works well in terms of providing a general snapshot of marriag
 ## Step three: Sketch a solution
 
 [Sketch][<img width="469" alt="Screen Shot 2024-09-18 at 12 10 17" src="https://github.com/user-attachments/assets/625811d8-abfa-4583-84cd-faa9a35f85ae">]
+
+For the sketch, I orignally thought to aggreagate all the data by regions to make the data more digestable. I wanted to see how the median age increased over time so that is what my story was with creating this redesigned visualization. I averaged all the medians and assigned different colors to different regions. 
 
 ## Step four: Test the solution
 
@@ -48,11 +49,13 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question                                            | 26M Student           | 23F Student |
+|-----------------------------------------------------|-------------|-------------|
+|Can you tell me what you think this is?              |             |
+|Can you describe to me what this is telling you?     |             |             |
+|Is there anything you find surprsing or confusing?   |
+|Who do you think is the intended audience for this?  |
+|Is there anything you would change or do differently?|             |
 
 Synthesis: 
 
