@@ -78,7 +78,8 @@ _Include and describe your final solution here. It's also a good idea to summari
     <param name='display_overlay' value='yes' />
     <param name='display_count' value='yes' />
     <param name='language' value='en-US' />
-  </object></div>
+  </object>
+</div>
   <script type='text/javascript'>
     var divElement = document.getElementById('viz1726677718669');
     var vizElement = divElement.getElementsByTagName('object')[0];
