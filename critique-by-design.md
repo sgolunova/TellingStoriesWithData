@@ -11,8 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-[Orignal Image][prb-image-export](https://github.com/user-attachments/assets/3e17b130-98c6-453c-8316-ad581f0b13d8)
-![prb-image-export](https://github.com/user-attachments/assets/50b8dfeb-ccf1-4f3a-a020-c8c7f357f1a2)
+[Orignal Image]![prb-image-export](https://github.com/user-attachments/assets/50b8dfeb-ccf1-4f3a-a020-c8c7f357f1a2)
 
 Click on the Link for an interactive version.
 [Source: https://www.prb.org/usdata/indicator/marriage-age-women/map/state/2015]
@@ -52,7 +51,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question                                            | 26M Student           | 23F Student |
 |-----------------------------------------------------|-------------|-------------|
-|Can you tell me what you think this is?              |             |
+|Can you tell me what you think this is?              |showing me the trend of age for first time marriage. And you are breaking it down by the 4 regions in the US while also giving the overall average             |
 |Can you describe to me what this is telling you?     |             |             |
 |Is there anything you find surprsing or confusing?   |
 |Who do you think is the intended audience for this?  |
