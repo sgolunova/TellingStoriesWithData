@@ -30,7 +30,7 @@ You can keep this section for stuff from in-class demos or your other work, or r
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
