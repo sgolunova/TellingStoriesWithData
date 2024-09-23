@@ -33,7 +33,9 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-The first data source is IoT connected devices from 2019 projecting to 2033, found on Statista through the Carnegie Mellon Library. This will
+The first data source is IoT connected devices from 2019 projecting to 2033, found on Statista through the Carnegie Mellon Library. This will be used in depicting the growth of IoT devices. 
+
+Next data source is the Annual number of Internet of Things (IoT) malware attacks worldwide, this will show the progression of IoT attacks and the rise of security breaches from the internet of things. 
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
