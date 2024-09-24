@@ -41,8 +41,8 @@ Next data source is the Annual number of Internet of Things (IoT) malware attack
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Conncted IoT_Devices | [DataSet](https://github.com/sgolunova/TellingStoriesWithData/blob/main/IoT_Attacks.xlsx)| Conncted IoT devices worldwide|
-|IoT Attacks|[DataSet](IoT_Attacks.xslx)|The number of Internet of Things (IoT) cyber attacks worldwide|
+|Conncted IoT_Devices | [DataSet](https://github.com/sgolunova/TellingStoriesWithData/blob/main/connected_iot_devices.xlsx)| Conncted IoT devices worldwide|
+|IoT Attacks|[DataSet](https://github.com/sgolunova/TellingStoriesWithData/blob/main/IoT_Attacks.xlsx)|The number of Internet of Things (IoT) cyber attacks worldwide|
 |      |     |             |
 
 # Method and medium
