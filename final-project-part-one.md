@@ -42,9 +42,14 @@ The resolution will be the call to action. In the call to action I will offer pr
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-The first data source is IoT connected devices from 2019 projecting to 2033, found on Statista through the Carnegie Mellon Library. This will be used in depicting the growth of IoT devices. 
+For my final project on the data privacy concerns surrounding IoT devices, I will be utilizing several key datasets to provide a comprehensive understanding of the growth, security risks, and vulnerabilities associated with IoT technology.
 
-Next data source is the Annual number of Internet of Things (IoT) malware attacks worldwide, this will show the progression of IoT attacks and the rise of security breaches from the internet of things. 
+The first dataset, IoT Connected Devices (2019-2033), sourced from Statista via the Carnegie Mellon Library, tracks the global growth of IoT devices. This data will allow me to depict the exponential increase in IoT device adoption, demonstrating how these devices are becoming more prevalent in homes and businesses. The sharp rise in connected devices provides important context for why IoT security is a growing concern.
+
+The second dataset, Annual Number of Internet of Things (IoT) Malware Attacks Worldwide sourced from Statista via the Carnegie Mellon Library, captures the rise in cyberattacks targeting IoT devices. I will use this data to highlight the growing number of security breaches and attacks that exploit the vulnerabilities of IoT devices, showing the correlation between increased IoT adoption and rising security threats.
+
+Additionally, I will include data from two IoT Vulnerability Assessment datasets: the first from CERN, detailing the vulnerability assessment of their IoT devices, and the second, a network traffic dataset generated through simulated ethical hacking. Both will provide insights into the specific vulnerabilities in IoT devices and how they can be exploited, giving a deeper understanding of the types of risks consumers may face.
+
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
@@ -52,7 +57,8 @@ Next data source is the Annual number of Internet of Things (IoT) malware attack
 |------|-----|-------------|
 |Conncted IoT_Devices | [DataSet](https://github.com/sgolunova/TellingStoriesWithData/blob/main/connected_iot_devices.xlsx)| Conncted IoT devices worldwide|
 |IoT Attacks|[DataSet](https://github.com/sgolunova/TellingStoriesWithData/blob/main/IoT_Attacks.xlsx)|The number of Internet of Things (IoT) cyber attacks worldwide|
-|      |     |             |
+|IoT Vulnerability Assessment      | https://figshare.com/articles/dataset/iot_vulnerability_assessment_graph/7130570?file=13117550    |vulnerability assessment conducted on IoT devices at the European Organization for Nuclear Research (CERN).             |
+|IoT Vulnerability Assessment |https://data.mendeley.com/datasets/7m58kxs742/1| This dataset contains network traffic data from IoT devices connected to the internet through a router, captured using Wireshark during simulated attacks performed with Kali Linux to aid research in IoT security.
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
