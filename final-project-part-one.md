@@ -15,7 +15,9 @@ The primary objective of my final project is to raise awareness about the data p
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 >
 > 
-![Story Arc](https://github.com/user-attachments/files/17106339/Scanned.Document.pdf)
+
+### Story Arc
+<img width="788" alt="Screen Shot 2024-09-23 at 20 50 08" src="https://github.com/user-attachments/assets/2b0f9727-b37d-4123-8166-6eeca35aa7af">
 
 ### The Setup 
 I want to begin with data visualization of the prevalance and rise of IoT devices. Showing how the technology has been growing will grab the users attention and make them care about the problem. I can feature some crazy IoT devices such as kitty litter boxes and egg timers. 
@@ -28,9 +30,14 @@ The resolution will be the call to action. In the call to action I will offer pr
 
 ## Initial sketches
 
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
+<img width="814" alt="Screen Shot 2024-09-23 at 21 03 25" src="https://github.com/user-attachments/assets/a7bc6755-14f6-4275-833d-8e75e4061c83">
+<img width="700" alt="Screen Shot 2024-09-23 at 21 03 45" src="https://github.com/user-attachments/assets/96313f8e-8073-467d-9f36-5bd03c13ce11">
+<img width="655" alt="Screen Shot 2024-09-23 at 21 04 10" src="https://github.com/user-attachments/assets/d76abcac-684d-487b-ac94-0ad59c8c7ce6">
+<img width="699" alt="Screen Shot 2024-09-23 at 21 04 26" src="https://github.com/user-attachments/assets/090e5503-da3c-4b3f-811b-aa4b3360c0e6">
 
-Text here...
+
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
