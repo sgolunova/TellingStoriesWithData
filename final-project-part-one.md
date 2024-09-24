@@ -15,6 +15,7 @@ The primary objective of my final project is to raise awareness about the data p
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 >
 > 
+![Story Arc](https://github.com/user-attachments/files/17106339/Scanned.Document.pdf)
 
 ### The Setup 
 I want to begin with data visualization of the prevalance and rise of IoT devices. Showing how the technology has been growing will grab the users attention and make them care about the problem. I can feature some crazy IoT devices such as kitty litter boxes and egg timers. 
@@ -26,6 +27,7 @@ I will follow with visualizations of recent data breaches of IoT devices, focusi
 The resolution will be the call to action. In the call to action I will offer practical advice on how consumers can secure their IoT devices—stronger passwords, two-factor authentication, reviewing device permissions, and buying from reputable manufacturers that prioritize security. By doing this I hope to encourage consumers to do thorough research on the devices that they bring into their homes and share data with. I want to emphasize that while IoT devices are here to stay, awareness and action can mitigate their risks, ensuring greater security in the digital age.
 
 ## Initial sketches
+
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 Text here...
