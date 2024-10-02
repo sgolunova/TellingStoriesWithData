@@ -8,7 +8,7 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+The target audience for this final project includes consumers, cybersecurity professionals, and organizations interested in data privacy and the security of Internet of Things (IoT) devices. Specifically, it is aimed at individuals who may not be fully aware of the risks associated with the growing adoption of IoT devices in their homes or workplaces. This includes everyday consumers who own smart devices such as smart speakers, thermostats, wearables, and other connected gadgets, as well as businesses integrating IoT technology into their operations. The goal is to inform this audience about the increasing vulnerabilities posed by IoT devices, the risks of potential cyberattacks, and the importance of taking preventive measures. By raising awareness about IoT security threats and providing clear, digestible data visualizations, the project seeks to empower users to make more informed decisions regarding the devices they buy and how they protect their personal and organizational data.
 
 Text here!
 
