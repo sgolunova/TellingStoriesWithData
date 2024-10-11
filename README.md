@@ -3,8 +3,8 @@
 
 # Welcome to my Telling Stories with Data Portfolio
 
-- Web page URL: [LINK to WEB URL][https://sgolunova.github.io/TellingStoriesWithData]
-- This repository: [LINK TO THIS REPO][https://github.com/sgolunova/TellingStoriesWithData]
+- Web page URL: [LINK to WEB URL](https://sgolunova.github.io/TellingStoriesWithData)
+- This repository: [LINK TO THIS REPO](https://github.com/sgolunova/TellingStoriesWithData)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
