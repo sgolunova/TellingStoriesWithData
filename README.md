@@ -28,27 +28,9 @@ Hello! My name is Sophie Golunova and I am a Master's Candidate at Carnegie Mell
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+My Final Project details one of my passions and interests which is data privacy. If you are an early adopter of gadgets or just generally intersted in technology and privacy, this would interest you!
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
+ 
 
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
