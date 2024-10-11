@@ -1,31 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+[> Final Presentation Link. ](https://carnegiemellon.shorthandstories.com/the-hidden-side-of-the-internet-of-things-iot/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Some of the changes that I've made since Part II are that I changed one of my graphs from a stacked bargraph to a regular barchart. I was trying to do something fancy with the stacked barchart and my intention was to make it seem like the most recent year has the most IoT attacks, but I think that it was confusing. Instead I opted for a regular bar chart which proved to be much more effective because now users would be able to tell that in recent years there has been almost an exponentional rise in IoT Malware Attacks. Likewise I edited one overlay portion ofmy graph and edited the axis. I wanted to make a cool effect of like overlaying the amount of IoT attacks on consumer good in 2020 vs. 2022 but with Tableu not rendering well and having to screenshot the images in a precise way it just ended up looking super janky and took away from the user experience as according to the feedback I receieved. I think just one graph works well enough. Finally I added a section descirbing a why people should care about this. I think this section is valuable as it engages people to udnerstand why they should care about their privacy. Obviosuly everyone knows that their data is being accounted for, but no one understands why they should care about it. Some design decision that I had to consider are the colors that I used, I tried to stay with a theme of like black, red, white, and navy blue. Unfortunatley with using unsplash I wasn't able to find a lot of pictures that matched this aesthetic, but I'm also no designer and actually have a really bad relationship with design and color theory so I did my best. 
 
 Text here!
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+I believe that my audience primarily consists of early adopters—individuals who are enthusiastic about embracing new technologies and are often the first to explore innovative solutions. To engage this audience effectively, I highlighted several cutting-edge technologies that have the potential to captivate their interest. I think that my audience is mostly foucsed for early adopters. I talked amount some innovative technology that could be potentially appealing for early adopters of technology and then gave examples in my "Rise of IoT" section to kind of set the story up. Furthermore, I emphasized the unique characteristics of early adopters, such as their willingness to experiment with new technologies and their role as influencers within their social circles. By positioning these technologies as not just functional but also as part of a lifestyle choice, I sought to create a narrative that resonates with their aspirations and curiosity. 
 
-Text here!
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
-
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+Some final thoughts and relfection on this project is that I am proud of the work I accomplished. This topic is particularly important to me, as I am passionate about cybersecurity and data privacy. One of the challenges I faced was determining the target audience for my project. I initially struggled to settle on a specific demographic, which made it difficult to tailor my message effectively. However, this challenge pushed me to think critically about how to communicate my findings in a way that resonates with various users. In the future, I would potentially narrow it down even more and maybe even make it more geared towards policy makers to initate some change within the IoT field because currently we are lacking a lot of regulation regarding the topic. Additionally, working with Tableau presented some frustrations. At times, the software felt limiting, and I found it challenging to execute my vision as seamlessly as I had hoped. Despite these obstacles, I persevered and ultimately produced a beautiful deliverable that effectively conveyed the critical information I wanted to share. Overall, this project was a rewarding experience that allowed me to combine my interests in data storytelling and cybersecurity. I am grateful for the opportunity to create a project that not only reflects my passion but also aims to inform and empower users regarding the hidden risks associated with IoT devices! :)
