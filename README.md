@@ -20,7 +20,6 @@ Hello! My name is Sophie Golunova and I am a Master's Candidate at Carnegie Mell
 4. How to make my graphs look more aesthetically appealing
 
 
-## Assignment 1 [Critique #1: FITARA and Paid Vacation Days](Critique-#1)
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
